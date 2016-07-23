@@ -3,5 +3,9 @@
 <li>banana</li>
 <li> Soya milk</li>
 <li>cookies</li>
-<li>ice cream </li>
+<<<<<<< HEAD
+
+=======
+<li>cookies Buttercosth </li>
+>>>>>>> eabfda6eaa562ffe8a84c3fdaeaf2d8f4e5df54c
 </ul>
